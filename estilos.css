@@ -1,0 +1,76 @@
+
+
+body{
+	background-color:#000000
+}
+
+
+#logo{
+	width: 10%;
+	height:100px;
+	background-color:#ffffff;
+	font-family:arial black;
+	text-align:center;
+	float:left;
+}
+img{
+	width:100%;
+	height:300px;
+}
+
+#titulo{
+	width: 90%;
+	height:100px;
+background-color:#737373;
+float:left;
+font-family:Old English Text MT;
+color:#000000;
+text-align:center;
+font-size:80px;
+}
+
+#menu{
+	width: 100%;
+	height:50px;
+background-color:#ffccff;
+float:unset;
+font-family:Old English Text MT;
+font-size:30px}
+#superior{
+	width: 100%;
+	height:100px;
+background-color:#ffffff;}
+
+#contenido{
+	width: 100%;
+	height:600px;
+background-color:#cc99ff}
+
+.infe{
+	width: 25%;
+	height:300px;
+	background-color:#ff66cc;
+float:left;
+}
+#pie{
+	width: 100%;
+	height:75px;
+background-color:#ffccff;
+font-family:Old English Text MT;
+font-size:30px
+}
+
+.logo{
+		width:60%;
+	height:100px;
+}
+
+#imagenp{
+	width: 100%;
+	height:300px;}
+
+#separacion{
+	width: 100%;
+	height:40px;
+	background-color:#cc99ff;
+font-family:calibri;}
